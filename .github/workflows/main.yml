@@ -1,0 +1,21 @@
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2
+    
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@2.0.0
+      env:
+        FTP_SERVER: ${{ secrets.ftp_host }}
+        FTP_USERNAME: ${{ secrets.ftp_user }}
+        FTP_PASSWORD: ${{ secrets.ftp_password }}
+        LOCAL_DIR: ./
+        REMOTE_DIR: /usr/local/lsws/wordpress/wp-content/plugins/simply-static/static-files/
+        METHOD: sftp
+        PORT: 54198
+        ARGS: --verbose
