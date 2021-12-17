@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; WOW</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 08 Sep 2021 12:37:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>New 10</title>
+		<link>/new-10/</link>
+					<comments>/new-10/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 12:37:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=219</guid>
+
+					<description><![CDATA[new 10]]></description>
+										<content:encoded><![CDATA[
+<p>new 10</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New 9</title>
+		<link>/new-9/</link>
+					<comments>/new-9/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 09:26:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=217</guid>
+
+					<description><![CDATA[new 9]]></description>
+										<content:encoded><![CDATA[
+<p>new 9</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New 8</title>
+		<link>/new-8/</link>
+					<comments>/new-8/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 09:19:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=215</guid>
+
+					<description><![CDATA[new 8]]></description>
+										<content:encoded><![CDATA[
+<p>new 8</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New 7</title>
+		<link>/new-7/</link>
+					<comments>/new-7/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 08:52:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=209</guid>
+
+					<description><![CDATA[new 7]]></description>
+										<content:encoded><![CDATA[
+<p>new 7</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New 5</title>
+		<link>/new-5/</link>
+					<comments>/new-5/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 08:11:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=203</guid>
+
+					<description><![CDATA[new 5]]></description>
+										<content:encoded><![CDATA[
+<p>new 5</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New1</title>
+		<link>/new1/</link>
+					<comments>/new1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 04:15:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=196</guid>
+
+					<description><![CDATA[New1]]></description>
+										<content:encoded><![CDATA[
+<p>New1</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 02:27:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
