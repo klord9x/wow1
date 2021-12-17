@@ -17,5 +17,5 @@ jobs:
         LOCAL_DIR: ./
         REMOTE_DIR: /usr/local/lsws/wordpress/wp-content/plugins/simply-static/static-files/
         METHOD: sftp
-        PORT: 54198
+        PORT: ${{ secrets.ftp_port }}
         ARGS: --verbose
